@@ -1,0 +1,291 @@
+{
+  "statusCode": 200,
+  "message": "success",
+  "data": {
+    "_id": "672cc746c4cdd2f711df3352",
+    "isDeleted": false,
+    "name": "Luật trợ giúp pháp lý 2006 số 69/2006/QH11",
+    "category": "Luật",
+    "department": "Quốc hội",
+    "baseUrl": "https://thuvienphapluat.vn/van-ban/Dich-vu-phap-ly/Luat-tro-giup-phap-ly-2006-69-2006-QH11-12978.aspx",
+    "pdfUrl": "https://thuvienphapluat.vn/van-ban/Dich-vu-phap-ly/Luat-tro-giup-phap-ly-2006-69-2006-QH11-12978.aspx",
+    "numberDoc": "69/2006/QH11",
+    "dateApproved": "2006-06-29T00:00:00.000Z",
+    "fields": [
+      "Dịch vụ pháp lý",
+      "Quyền dân sự"
+    ],
+    "content": {
+      "header": [
+        {
+          "value": "QUỐC HỘI ******",
+          "name": "header0",
+          "embedding": "",
+          "classification": "",
+          "internal_ner": [],
+          "reference": [],
+          "content": [],
+          "tag": "",
+          "parent_ner": [],
+          "aggregation_ner": []
+        },
+        {
+          "value": "CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc ************",
+          "name": "header1",
+          "embedding": "",
+          "classification": "",
+          "internal_ner": [],
+          "reference": [],
+          "content": [],
+          "tag": "",
+          "parent_ner": [],
+          "aggregation_ner": []
+        },
+        {
+          "value": "Số: 69/2006/QH 11",
+          "name": "header2",
+          "embedding": "",
+          "classification": "",
+          "internal_ner": [],
+          "reference": [],
+          "content": [],
+          "tag": "",
+          "parent_ner": [],
+          "aggregation_ner": []
+        },
+        {
+          "value": "Hà Nội, ngày 29 tháng 6 năm 2006",
+          "name": "header3",
+          "embedding": "",
+          "classification": "",
+          "internal_ner": [],
+          "reference": [],
+          "content": [],
+          "tag": "",
+          "parent_ner": [],
+          "aggregation_ner": []
+        }
+      ],
+      "description": [
+        {
+          "value": "QUỐC HỘI NƯỚC CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Khóa XI, kỳ họp thứ 9 (Từ ngày 16 tháng 5 đến ngày 29 tháng 6 năm 2006)",
+          "embedding": "",
+          "classification": "",
+          "internal_ner": [],
+          "reference": [],
+          "name": "description0",
+          "tag": "",
+          "parent_ner": [],
+          "aggregation_ner": [],
+          "content": []
+        },
+        {
+          "value": "LUẬT",
+          "embedding": "",
+          "classification": "",
+          "internal_ner": [],
+          "reference": [],
+          "name": "description1",
+          "tag": "",
+          "parent_ner": [],
+          "aggregation_ner": [],
+          "content": []
+        },
+        {
+          "value": "TRỢ GIÚP PHÁP LÝ",
+          "embedding": "",
+          "classification": "",
+          "internal_ner": [],
+          "reference": [],
+          "name": "description2",
+          "tag": "",
+          "parent_ner": [],
+          "aggregation_ner": [],
+          "content": []
+        },
+        {
+          "value": "Căn cứ vào Hiến pháp nước Cộng hoà xã hội chủ nghĩa Việt Nam năm 1992 đã được sửa đổi, bổ sung theo Nghị quyết số 51/2001/QH10 ngày 25 tháng 12 năm 2001 của Quốc hội khoá X, kỳ họp thứ 10; Luật này quy định về trợ giúp pháp lý.",
+          "embedding": "",
+          "classification": "",
+          "internal_ner": [],
+          "reference": [],
+          "name": "description3",
+          "tag": "",
+          "parent_ner": [],
+          "aggregation_ner": [],
+          "content": []
+        }
+      ],
+      "mainContent": [
+        {
+          "name": "chuong1",
+          "value": "Chương I",
+          "content": [
+            {
+              "value": "NHỮNG QUY ĐỊNH CHUNG",
+              "embedding": "",
+              "classification": "",
+              "internal_ner": [],
+              "reference": [],
+              "name": "line0",
+              "tag": "",
+              "parent_ner": [],
+              "aggregation_ner": [],
+              "content": []
+            }
+          ],
+          "tag": "",
+          "internal_ner": [],
+          "parent_ner": [],
+          "aggregation_ner": [],
+          "embedding": "",
+          "reference": [],
+          "classification": ""
+        },
+        {
+          "name": "dieu3",
+          "value": "Điều 3. Trợ giúp pháp lý",
+          "content": [
+            {
+              "value": "Trợ giúp pháp lý là việc cung cấp dịch vụ pháp lý miễn phí cho người được trợ giúp pháp lý theo quy định của Luật này, giúp người được trợ giúp pháp lý bảo vệ quyền, lợi ích hợp pháp của mình, nâng cao hiểu biết pháp luật, ý thức tôn trọng và chấp hành pháp luật; góp phần vào việc phổ biến, giáo dục pháp luật, bảo vệ công lý, bảo đảm công bằng xã hội, phòng ngừa, hạn chế tranh chấp và vi phạm pháp luật.",
+              "embedding": "",
+              "classification": "",
+              "internal_ner": [],
+              "reference": [],
+              "name": "line0",
+              "tag": "",
+              "parent_ner": [],
+              "aggregation_ner": [],
+              "content": []
+            }
+          ],
+          "tag": "",
+          "internal_ner": [],
+          "parent_ner": [],
+          "aggregation_ner": [],
+          "embedding": "",
+          "reference": [],
+          "classification": ""
+        },
+        {
+          "name": "dieu4",
+          "value": "Điều 4. Nguyên tắc hoạt động trợ giúp pháp lý",
+          "content": [
+            {
+              "name": "khoan1",
+              "value": "1. Không thu phí, lệ phí, thù lao từ người được trợ giúp pháp lý.",
+              "content": [],
+              "tag": "",
+              "internal_ner": [],
+              "parent_ner": [],
+              "aggregation_ner": [],
+              "embedding": "",
+              "reference": [],
+              "classification": ""
+            },
+            {
+              "name": "khoan2",
+              "value": "2. Trung thực, tôn trọng sự thật khách quan.",
+              "content": [],
+              "tag": "",
+              "internal_ner": [],
+              "parent_ner": [],
+              "aggregation_ner": [],
+              "embedding": "",
+              "reference": [],
+              "classification": ""
+            },
+            {
+              "name": "khoan3",
+              "value": "3. Sử dụng các biện pháp phù hợp với quy định của pháp luật để bảo vệ tốt nhất quyền, lợi ích hợp pháp của người được trợ giúp pháp lý.",
+              "content": [],
+              "tag": "",
+              "internal_ner": [],
+              "parent_ner": [],
+              "aggregation_ner": [],
+              "embedding": "",
+              "reference": [],
+              "classification": ""
+            },
+            {
+              "name": "khoan4",
+              "value": "4. Tuân thủ pháp luật và quy tắc nghề nghiệp trợ giúp pháp lý.",
+              "content": [],
+              "tag": "",
+              "internal_ner": [],
+              "parent_ner": [],
+              "aggregation_ner": [],
+              "embedding": "",
+              "reference": [],
+              "classification": ""
+            },
+            {
+              "name": "khoan5",
+              "value": "5. Chịu trách nhiệm trước pháp luật về nội dung trợ giúp pháp lý.",
+              "content": [],
+              "tag": "",
+              "internal_ner": [],
+              "parent_ner": [],
+              "aggregation_ner": [],
+              "embedding": "",
+              "reference": [],
+              "classification": ""
+            }
+          ],
+          "tag": "",
+          "internal_ner": [],
+          "parent_ner": [],
+          "aggregation_ner": [],
+          "embedding": "",
+          "reference": [],
+          "classification": ""
+        },
+        {
+          "name": "dieu5",
+          "value": "Điều 5. Vụ việc trợ giúp pháp lý",
+          "content": [
+            {
+              "value": "Vụ việc trợ giúp pháp lý phải liên quan đến quyền, lợi ích hợp pháp của người được trợ giúp pháp lý và không thuộc lĩnh vực kinh doanh, thương mại.",
+              "embedding": "",
+              "classification": "",
+              "internal_ner": [],
+              "reference": [],
+              "name": "line0",
+              "tag": "",
+              "parent_ner": [],
+              "aggregation_ner": [],
+              "content": []
+            }
+          ],
+          "tag": "",
+          "internal_ner": [],
+          "parent_ner": [],
+          "aggregation_ner": [],
+          "embedding": "",
+          "reference": [],
+          "classification": ""
+        }
+      ],
+      "footer": [
+        {
+          "value": "CHỦ TỊCH QUỐC HỘI          Nguyễn Phú Trọng",
+          "name": "footer0",
+          "classification": "",
+          "internal_ner": [],
+          "embedding": "",
+          "reference": [],
+          "content": [],
+          "tag": "",
+          "parent_ner": [],
+          "aggregation_ner": []
+        }
+      ],
+      "extend": [
+        " "
+      ]
+    },
+    "relationLaws": [],
+    "createdAt": "2024-11-07T13:57:26.077Z",
+    "updatedAt": "2024-11-07T13:57:26.079Z"
+  }
+}

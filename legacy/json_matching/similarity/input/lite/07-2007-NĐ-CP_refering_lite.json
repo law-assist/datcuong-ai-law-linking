@@ -1,0 +1,571 @@
+{
+  "statusCode": 200,
+  "message": "success",
+  "data": {
+    "_id": "672cc6fbc4cdd2f711df334c",
+    "isDeleted": false,
+    "name": "Nghị định 07/2007/NĐ-CP hướng dẫn Luật Trợ giúp pháp lý",
+    "category": "Nghị định",
+    "department": "Chính phủ",
+    "baseUrl": "https://thuvienphapluat.vn/van-ban/Dich-vu-phap-ly/Nghi-dinh-07-2007-ND-CP-huong-dan-Luat-Tro-giup-phap-ly-16318.aspx?anchor=dieu_5",
+    "pdfUrl": "https://thuvienphapluat.vn/van-ban/Dich-vu-phap-ly/Nghi-dinh-07-2007-ND-CP-huong-dan-Luat-Tro-giup-phap-ly-16318.aspx?anchor=dieu_5",
+    "numberDoc": "07/2007/NĐ-CP",
+    "dateApproved": "2007-01-12T00:00:00.000Z",
+    "fields": [
+      "Dịch vụ pháp lý"
+    ],
+    "content": {
+      "header": [
+        {
+          "value": "CHÍNH PHỦ",
+          "name": "header0",
+          "embedding": "",
+          "classification": "",
+          "internal_ner": [],
+          "reference": [],
+          "content": [],
+          "tag": "",
+          "parent_ner": [],
+          "aggregation_ner": []
+        },
+        {
+          "value": "CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc",
+          "name": "header1",
+          "embedding": "",
+          "classification": "",
+          "internal_ner": [],
+          "reference": [],
+          "content": [],
+          "tag": "",
+          "parent_ner": [],
+          "aggregation_ner": []
+        },
+        {
+          "value": "Số : 07/2007/NĐ-CP",
+          "name": "header2",
+          "embedding": "",
+          "classification": "",
+          "internal_ner": [],
+          "reference": [],
+          "content": [],
+          "tag": "",
+          "parent_ner": [],
+          "aggregation_ner": []
+        },
+        {
+          "value": "Hà Nội, ngày 12 tháng 01 năm 2007",
+          "name": "header3",
+          "embedding": "",
+          "classification": "",
+          "internal_ner": [],
+          "reference": [],
+          "content": [],
+          "tag": "",
+          "parent_ner": [],
+          "aggregation_ner": []
+        }
+      ],
+      "description": [
+        {
+          "value": "NGHỊ ĐỊNH",
+          "embedding": "",
+          "classification": "",
+          "internal_ner": [],
+          "reference": [],
+          "name": "description0",
+          "tag": "",
+          "parent_ner": [],
+          "aggregation_ner": [],
+          "content": []
+        },
+        {
+          "value": "QUY ĐỊNH CHI TIẾT VÀ HƯỚNG DẪN THI HÀNH MỘT SỐ ĐIỀU CỦA LUẬT TRỢ GIÚP PHÁP LÝ",
+          "embedding": "",
+          "classification": "",
+          "internal_ner": [],
+          "reference": [],
+          "name": "description1",
+          "tag": "",
+          "parent_ner": [],
+          "aggregation_ner": [],
+          "content": []
+        },
+        {
+          "value": "CHÍNH PHỦ",
+          "embedding": "",
+          "classification": "",
+          "internal_ner": [],
+          "reference": [],
+          "name": "description2",
+          "tag": "",
+          "parent_ner": [],
+          "aggregation_ner": [],
+          "content": []
+        },
+        {
+          "value": "Căn cứ Luật Tổ chức Chính phủ ngày 25 tháng 12 năm 2001;",
+          "embedding": "",
+          "classification": "",
+          "internal_ner": [],
+          "reference": [],
+          "name": "description3",
+          "tag": "",
+          "parent_ner": [],
+          "aggregation_ner": [],
+          "content": []
+        },
+        {
+          "value": "Căn cứ Luật Trợ giúp pháp lý ngày 29 tháng 6 năm 2006;",
+          "embedding": "",
+          "classification": "",
+          "internal_ner": [],
+          "reference": [],
+          "name": "description4",
+          "tag": "",
+          "parent_ner": [],
+          "aggregation_ner": [],
+          "content": []
+        },
+        {
+          "value": "Xét đề nghị của Bộ trưởng Bộ Tư pháp,",
+          "embedding": "",
+          "classification": "",
+          "internal_ner": [],
+          "reference": [],
+          "name": "description5",
+          "tag": "",
+          "parent_ner": [],
+          "aggregation_ner": [],
+          "content": []
+        },
+        {
+          "value": "NGHỊ ĐỊNH:",
+          "embedding": "",
+          "classification": "",
+          "internal_ner": [],
+          "reference": [],
+          "name": "description6",
+          "tag": "",
+          "parent_ner": [],
+          "aggregation_ner": [],
+          "content": []
+        }
+      ],
+      "mainContent": [
+        {
+          "name": "chuong1",
+          "value": "Chương 1:",
+          "content": [
+            {
+              "value": "NHỮNG QUY ĐỊNH CHUNG",
+              "embedding": "",
+              "classification": "",
+              "internal_ner": [],
+              "reference": [],
+              "name": "line0",
+              "tag": "",
+              "parent_ner": [],
+              "aggregation_ner": [],
+              "content": []
+            }
+          ],
+          "tag": "",
+          "internal_ner": [],
+          "parent_ner": [],
+          "aggregation_ner": [],
+          "embedding": "",
+          "reference": [],
+          "classification": ""
+        },
+        {
+          "name": "dieu2",
+          "value": "Điều 2. Người được trợ giúp pháp lý",
+          "classification": 2,
+          "internal_ner": [],
+          "parent_ner": [],
+          "aggregation_ner": [],
+          "embedding": {
+            "input_ids": "[[0, 1395, 19, 3698, 39349, 4, 5438, 2288, 15, 125, 3436, 159, 1251, 2289, 2059, 133, 7, 185, 133, 170, 6615, 462, 2404, 2845, 34040, 4, 2209, 3056, 184, 5843, 133, 6, 2209, 22649, 8665, 133, 170, 6615, 462, 1893, 11639, 3110, 1008, 2149, 4436, 18150, 2008, 65, 1391, 1766, 2927, 380, 2209, 40214, 4, 159, 713, 133, 18167, 1301, 65, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]]",
+            "attention_mask": "[[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]]"
+          },
+          "reference": [
+            {
+              "lawId": "672cc746c4cdd2f711df3352",
+              "lawRef": [
+                "mainContent",
+                "dieu10"
+              ],
+              "index": 6,
+              "type": "referring", 
+              "classification": 6
+            }
+          ],
+          "content": [
+            {
+              "name": "khoan1",
+              "value": "1. Người nghèo được trợ giúp pháp lý quy định tại khoản 1 Điều 10 Luật Trợ giúp pháp lý là người thuộc chuẩn nghèo theo quy định của pháp luật.",
+              "content": [],
+              "tag": "",
+              "internal_ner": [],
+              "parent_ner": [],
+              "aggregation_ner": [],
+              "embedding": "",
+              "reference": [],
+              "classification": ""
+            },
+
+            {
+              "name": "khoan2",
+              "value": "2. Người có công với cách mạng được trợ giúp pháp lý quy định tại khoản 2 Điều 10 Luật Trợ giúp pháp lý bao gồm:",
+              "content": [
+                {
+                  "name": "diema",
+                  "value": "a) Người hoạt động cách mạng trước Tổng khởi nghĩa 19 tháng 8 năm 1945;",
+                  "content": [],
+                  "tag": "",
+                  "internal_ner": [],
+                  "parent_ner": [],
+                  "aggregation_ner": [],
+                  "embedding": "",
+                  "reference": [],
+                  "classification": ""
+                },
+                {
+                  "name": "diemb",
+                  "value": "b) Bà mẹ Việt Nam anh hùng;",
+                  "content": [],
+                  "tag": "",
+                  "internal_ner": [],
+                  "parent_ner": [],
+                  "aggregation_ner": [],
+                  "embedding": "",
+                  "reference": [],
+                  "classification": ""
+                },
+                {
+                  "name": "diemc",
+                  "value": "c) Anh hùng Lực lượng vũ trang nhân dân, Anh hùng Lao động;",
+                  "content": [],
+                  "tag": "",
+                  "internal_ner": [],
+                  "parent_ner": [],
+                  "aggregation_ner": [],
+                  "embedding": "",
+                  "reference": [],
+                  "classification": ""
+                },
+                {
+                  "name": "diemd",
+                  "value": "d) Thương binh, người hưởng chính sách như thương binh;",
+                  "content": [],
+                  "tag": "",
+                  "internal_ner": [],
+                  "parent_ner": [],
+                  "aggregation_ner": [],
+                  "embedding": "",
+                  "reference": [],
+                  "classification": ""
+                },
+                {
+                  "name": "diemđ",
+                  "value": "đ) Bệnh binh;",
+                  "content": [],
+                  "tag": "",
+                  "internal_ner": [],
+                  "parent_ner": [],
+                  "aggregation_ner": [],
+                  "embedding": "",
+                  "reference": [],
+                  "classification": ""
+                },
+                {
+                  "name": "dieme",
+                  "value": "e) Người hoạt động kháng chiến bị nhiễm chất độc hoá học;",
+                  "content": [],
+                  "tag": "",
+                  "internal_ner": [],
+                  "parent_ner": [],
+                  "aggregation_ner": [],
+                  "embedding": "",
+                  "reference": [],
+                  "classification": ""
+                },
+                {
+                  "name": "diemg",
+                  "value": "g) Người hoạt động cách mạng, hoạt động kháng chiến bị địch bắt tù, đày;",
+                  "content": [],
+                  "tag": "",
+                  "internal_ner": [],
+                  "parent_ner": [],
+                  "aggregation_ner": [],
+                  "embedding": "",
+                  "reference": [],
+                  "classification": ""
+                },
+                {
+                  "name": "diemh",
+                  "value": "h) Người hoạt động kháng chiến giải phóng dân tộc, bảo vệ Tổ quốc và làm nghĩa vụ quốc tế;",
+                  "content": [],
+                  "tag": "",
+                  "internal_ner": [],
+                  "parent_ner": [],
+                  "aggregation_ner": [],
+                  "embedding": "",
+                  "reference": [],
+                  "classification": ""
+                },
+                {
+                  "name": "diemi",
+                  "value": "i) Người có công giúp đỡ cách mạng;",
+                  "content": [],
+                  "tag": "",
+                  "internal_ner": [],
+                  "parent_ner": [],
+                  "aggregation_ner": [],
+                  "embedding": "",
+                  "reference": [],
+                  "classification": ""
+                },
+                {
+                  "name": "diemk",
+                  "value": "k) Cha, mẹ, vợ, chồng của liệt sĩ; con của liệt sĩ chưa đủ 18 tuổi; người có công nuôi dưỡng liệt sĩ.",
+                  "content": [],
+                  "tag": "",
+                  "internal_ner": [],
+                  "parent_ner": [],
+                  "aggregation_ner": [],
+                  "embedding": "",
+                  "reference": [],
+                  "classification": ""
+                }
+              ],
+              "tag": "",
+              "internal_ner": [],
+              "parent_ner": [],
+              "aggregation_ner": [],
+              "embedding": "",
+              "reference": [],
+              "classification": ""
+            },
+            {
+              "name": "khoan3",
+              "value": "3. Người già được trợ giúp pháp lý quy định tại khoản 3 Điều 10 Luật Trợ giúp pháp lý là người từ đủ 60 tuổi trở lên sống độc thân hoặc không có nơi nương tựa.",
+              "content": [],
+              "tag": "",
+              "internal_ner": [],
+              "parent_ner": [],
+              "aggregation_ner": [],
+              "embedding": "",
+              "reference": [],
+              "classification": ""
+            },
+            {
+              "name": "khoan4",
+              "value": "4. Người tàn tật được trợ giúp pháp lý quy định tại khoản 3 Điều 10 Luật Trợ giúp pháp lý là người bị khiếm khuyết một hay nhiều bộ phận cơ thể hoặc chức năng biểu hiện dưới những dạng tật khác nhau, làm suy giảm khả năng hoạt động, khiến cho lao động, sinh hoạt, học tập gặp nhiều khó khăn hoặc là người bị nhiễm chất độc hoá học, bị nhiễm HIV hoặc bị các bệnh khác làm mất năng lực hành vi dân sự mà không có nơi nương tựa.",
+              "content": [],
+              "tag": "",
+              "internal_ner": [],
+              "parent_ner": [],
+              "aggregation_ner": [],
+              "embedding": "",
+              "reference": [],
+              "classification": ""
+            },
+            {
+              "name": "khoan5",
+              "value": "5. Trẻ em được trợ giúp pháp lý quy định tại khoản 3 Điều 10 Luật Trợ giúp pháp lý là người dưới 16 tuổi không nơi nương tựa.",
+              "content": [],
+              "tag": "",
+              "internal_ner": [],
+              "parent_ner": [],
+              "aggregation_ner": [],
+              "embedding": "",
+              "reference": [],
+              "classification": ""
+            },
+            {
+              "name": "khoan6",
+              "value": "6. Người dân tộc thiểu số được trợ giúp pháp lý theo khoản 4 Điều 10 Luật Trợ giúp pháp lý là người thường xuyên sinh sống tại vùng có điều kiện kinh tế - xã hội đặc biệt khó khăn theo quy định của pháp luật.",
+              "content": [],
+              "tag": "",
+              "internal_ner": [],
+              "parent_ner": [],
+              "aggregation_ner": [],
+              "embedding": "",
+              "reference": [],
+              "classification": ""
+            },
+            {
+              "name": "khoan7",
+              "value": "7. Các đối tượng khác được trợ giúp pháp lý theo quy định tại điều ước quốc tế mà Cộng hoà xã hội chủ nghĩa Việt Nam là thành viên.Bổ sung",
+              "content": [],
+              "tag": "",
+              "internal_ner": [],
+              "parent_ner": [],
+              "aggregation_ner": [],
+              "embedding": "",
+              "reference": [],
+              "classification": ""
+            }
+          ]
+        },
+        {
+          "name": "dieu3",
+          "value": "Điều 3. Tổ chức thực hiện trợ giúp pháp lý",
+          "content": [
+            {
+              "name": "khoan1",
+              "value": "1. Trung tâm trợ giúp pháp lý nhà nước quy định tại khoản 1 Điều 13 Luật Trợ giúp pháp lý là Trung tâm trợ giúp pháp lý nhà nước thuộc Sở Tư pháp tỉnh, thành phố trực thuộc trung ương (sau đây gọi tắt là Trung tâm) và các Chi nhánh của Trung tâm.",
+              "content": [],
+              "tag": "",
+              "internal_ner": [],
+              "parent_ner": [],
+              "aggregation_ner": [],
+              "embedding": "",
+              "reference": [],
+              "classification": ""
+            },
+            {
+              "name": "khoan2",
+              "value": "2. Tổ chức tham gia trợ giúp pháp lý quy định tại khoản 2 Điều 13 Luật Trợ giúp pháp lý bao gồm:",
+              "content": [
+                {
+                  "name": "diema",
+                  "value": "a) Văn phòng luật sư, Công ty luật theo quy định của pháp luật về luật sư;",
+                  "content": [],
+                  "tag": "",
+                  "internal_ner": [],
+                  "parent_ner": [],
+                  "aggregation_ner": [],
+                  "embedding": "",
+                  "reference": [],
+                  "classification": ""
+                },
+                {
+                  "name": "diemb",
+                  "value": "b) Trung tâm tư vấn pháp luật thuộc tổ chức chính trị - xã hội, tổ chức chính trị xã hội - nghề nghiệp, tổ chức xã hội - nghề nghiệp theo quy định của Chính phủ về tổ chức, hoạt động tư vấn pháp luật.",
+                  "content": [],
+                  "tag": "",
+                  "internal_ner": [],
+                  "parent_ner": [],
+                  "aggregation_ner": [],
+                  "embedding": "",
+                  "reference": [],
+                  "classification": ""
+                }
+              ],
+              "tag": "",
+              "internal_ner": [],
+              "parent_ner": [],
+              "aggregation_ner": [],
+              "embedding": "",
+              "reference": [],
+              "classification": ""
+            }
+          ],
+          "tag": "",
+          "internal_ner": [],
+          "parent_ner": [],
+          "aggregation_ner": [],
+          "embedding": "",
+          "reference": [],
+          "classification": ""
+        },
+        {
+          "name": "dieu4",
+          "value": "Điều 4. Trách nhiệm của cơ quan nhà nước và các cơ quan thông tin đại chúng trong trợ giúp pháp lý",
+          "content": [
+            {
+              "name": "khoan1",
+              "value": "1. Các cơ quan nhà nước trong phạm vi nhiệm vụ, quyền hạn của mình khuyến khích, tạo điều kiện về thời gian làm việc để cán bộ, công chức, viên chức tham gia làm cộng tác viên trợ giúp pháp lý (sau đây gọi tắt là cộng tác viên); phối hợp triển khai hoạt động trợ giúp pháp lý theo đề nghị của Trung tâm, Chi nhánh của Trung tâm; tạo điều kiện cung cấp thông tin tài liệu có liên quan đến vụ việc trợ giúp pháp lý; trả lời kiến nghị về những vấn đề liên quan đến thi hành pháp luật.",
+              "content": [],
+              "tag": "",
+              "internal_ner": [],
+              "parent_ner": [],
+              "aggregation_ner": [],
+              "embedding": "",
+              "reference": [],
+              "classification": ""
+            },
+            {
+              "name": "khoan2",
+              "value": "2. Các cơ quan thông tin đại chúng có trách nhiệm thường xuyên thông tin về tổ chức và hoạt động trợ giúp pháp lý; tạo điều kiện hỗ trợ và phối hợp thực hiện vụ việc trợ giúp pháp lý của Trung tâm, Chi nhánh.",
+              "content": [],
+              "tag": "",
+              "internal_ner": [],
+              "parent_ner": [],
+              "aggregation_ner": [],
+              "embedding": "",
+              "reference": [],
+              "classification": ""
+            }
+          ],
+          "tag": "",
+          "internal_ner": [],
+          "parent_ner": [],
+          "aggregation_ner": [],
+          "embedding": "",
+          "reference": [],
+          "classification": ""
+        },
+        {
+          "name": "dieu5",
+          "value": "Điều 5. Khuyến khích Mặt trận Tổ quốc Việt Nam và các tổ chức thành viên tham gia công tác trợ giúp pháp lý",
+          "content": [
+            {
+              "value": "Nhà nước khuyến khích, tạo điều kiện để Mặt trận Tổ quốc Việt Nam và các tổ chức thành viên trong phạm vi hoạt động của tổ chức mình tham gia thực hiện, đóng góp, hỗ trợ hoạt động trợ giúp pháp lý, vận động nhân dân thực hiện pháp luật về trợ giúp pháp lý; khuyến khích các thành viên, hội viên tham gia làm cộng tác viên; tạo điều kiện, phối hợp, cộng tác và hỗ trợ Trung tâm, các Chi nhánh của Trung tâm thực hiện công tác trợ giúp pháp lý có hiệu quả.",
+              "embedding": "",
+              "classification": "",
+              "internal_ner": [],
+              "reference": [],
+              "name": "line0",
+              "tag": "",
+              "parent_ner": [],
+              "aggregation_ner": [],
+              "content": []
+            }
+          ],
+          "tag": "",
+          "internal_ner": [],
+          "parent_ner": [],
+          "aggregation_ner": [],
+          "embedding": "",
+          "reference": [],
+          "classification": ""
+        }
+      ],
+      "footer": [
+        {
+          "value": "Nơi nhận:    -  Ban Bí thư Trung ương Đảng;  - Thủ tướng, các Phó Thủ tướng Chính phủ;   - Các Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ;   - VP BCĐ TW về phòng, chống tham nhũng;  - HĐND, UBND các tỉnh,   thành phố trực thuộc Trung ương;  - Văn phòng Trung ương và các Ban của Đảng;  - Văn phòng Chủ tịch nước;   - Hội đồng Dân tộc và các Ủy ban của Quốc hội;   - Văn phòng Quốc hội;  - Toà án nhân dân tối cao;   - Viện Kiểm sát nhân dân tối cao;  - Kiểm toán Nhà nước;  - BQL KKTCKQT Bờ Y;  -  Cơ quan Trung ương của các đoàn thể;  - Học viện Hành chính Quốc gia;  - VPCP: BTCN, các PCN,   Website Chính phủ, Ban Điều hành 112,   Người phát ngôn của Thủ tướng Chính phủ,   các Vụ, Cục, đơn vị trực thuộc, Công báo;  - Lưu: Văn thư, XDPL (5b).",
+          "name": "footer0",
+          "classification": "",
+          "internal_ner": [],
+          "embedding": "",
+          "reference": [],
+          "content": [],
+          "tag": "",
+          "parent_ner": [],
+          "aggregation_ner": []
+        },
+        {
+          "value": "TM. CHÍNH  PHỦ  THỦ TƯỚNG           Nguyễn  Tấn Dũng",
+          "name": "footer1",
+          "classification": "",
+          "internal_ner": [],
+          "embedding": "",
+          "reference": [],
+          "content": [],
+          "tag": "",
+          "parent_ner": [],
+          "aggregation_ner": []
+        }
+      ],
+      "extend": [
+        "<b><span lang=\"DE\" style=\"font-size:\n10.0pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;\"> </span></b>"
+      ]
+    },
+    "relationLaws": [],
+    "createdAt": "2024-11-07T13:56:11.157Z",
+    "updatedAt": "2024-11-07T13:56:11.165Z"
+  }
+}

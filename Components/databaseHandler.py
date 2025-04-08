@@ -21,7 +21,7 @@ def get_db_from_mongo(mongo_url: str):
     client = MongoClient(mongo_url)
 
     # Truy cập cơ sở dữ liệu
-    collection = client["xinchaovietnam"]["laws"]
+    collection = client["law_linking"]["laws"]
 
     # Trả về danh sách các văn bản json
     return collection, client

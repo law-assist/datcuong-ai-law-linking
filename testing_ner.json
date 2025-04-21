@@ -1,0 +1,1093 @@
+{
+  "_id": "672cc759c4cdd2f711df3354",
+  "isDeleted": false,
+  "name": "Nghị định 14/2013/NĐ-CP sửa đổi hướng dẫn Luật trợ giúp pháp lý",
+  "category": "Nghị định",
+  "department": "Chính phủ",
+  "baseUrl": "https://thuvienphapluat.vn/van-ban/Dich-vu-phap-ly/Nghi-dinh-14-2013-ND-CP-sua-doi-huong-dan-Luat-tro-giup-phap-ly-170283.aspx",
+  "pdfUrl": "https://thuvienphapluat.vn/van-ban/Dich-vu-phap-ly/Nghi-dinh-14-2013-ND-CP-sua-doi-huong-dan-Luat-tro-giup-phap-ly-170283.aspx",
+  "numberDoc": "14/2013/NĐ-CP",
+  "dateApproved": "2013-02-05T00:00:00.000Z",
+  "fields": [
+    "Dịch vụ pháp lý"
+  ],
+  "content": {
+    "header": [
+      {
+        "value": "CHÍNH PHỦ",
+        "name": "header0",
+        "embedding": "",
+        "classification": "",
+        "internal_ner": [],
+        "reference": [],
+        "content": [],
+        "tag": "",
+        "parent_ner": [],
+        "aggregation_ner": []
+      },
+      {
+        "value": "CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM \t\t\t\t\t\tĐộc lập - Tự do - Hạnh phúc",
+        "name": "header1",
+        "embedding": "",
+        "classification": "",
+        "internal_ner": [],
+        "reference": [],
+        "content": [],
+        "tag": "",
+        "parent_ner": [],
+        "aggregation_ner": []
+      },
+      {
+        "value": "Số: 14/2013/NĐ-CP",
+        "name": "header2",
+        "embedding": "",
+        "classification": "",
+        "internal_ner": [],
+        "reference": [],
+        "content": [],
+        "tag": "",
+        "parent_ner": [],
+        "aggregation_ner": []
+      },
+      {
+        "value": "Hà Nội, ngày 05 tháng 02 năm 2013",
+        "name": "header3",
+        "embedding": "",
+        "classification": "",
+        "internal_ner": [],
+        "reference": [],
+        "content": [],
+        "tag": "",
+        "parent_ner": [],
+        "aggregation_ner": []
+      }
+    ],
+    "description": [
+      {
+        "value": "NGHỊ ĐỊNH",
+        "embedding": "",
+        "classification": "",
+        "internal_ner": [],
+        "reference": [],
+        "name": "description0",
+        "tag": "",
+        "parent_ner": [],
+        "aggregation_ner": [],
+        "content": []
+      },
+      {
+        "value": "SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA NGHỊ ĐỊNH SỐ 07/2007/NĐ-CP NGÀY 12 THÁNG 01 NĂM 2007 CỦA CHÍNH PHỦ QUY ĐỊNH CHI TIẾT VÀ HƯỚNG DẪN THI HÀNH MỘT SỐ ĐIỀU CỦA LUẬT TRỢ GIÚP PHÁP LÝ",
+        "embedding": "",
+        "classification": "",
+        "internal_ner": [],
+        "reference": [],
+        "name": "description1",
+        "tag": "",
+        "parent_ner": [],
+        "aggregation_ner": [],
+        "content": []
+      },
+      {
+        "value": "Căn cứ Luật tổ chức Chính phủ ngày 25 tháng 12 năm 2001;",
+        "embedding": "",
+        "classification": "",
+        "internal_ner": [],
+        "reference": [],
+        "name": "description2",
+        "tag": "",
+        "parent_ner": [],
+        "aggregation_ner": [],
+        "content": []
+      },
+      {
+        "value": "Căn cứ Luật trợ giúp pháp lý ngày 29 tháng 6 năm 2006;",
+        "embedding": "",
+        "classification": "",
+        "internal_ner": [],
+        "reference": [],
+        "name": "description3",
+        "tag": "",
+        "parent_ner": [],
+        "aggregation_ner": [],
+        "content": []
+      },
+      {
+        "value": "Theo đề nghị của Bộ trưởng Bộ Tư pháp;",
+        "embedding": "",
+        "classification": "",
+        "internal_ner": [],
+        "reference": [],
+        "name": "description4",
+        "tag": "",
+        "parent_ner": [],
+        "aggregation_ner": [],
+        "content": []
+      },
+      {
+        "value": "Chính phủ ban hành Nghị định sửa đổi, bổ sung một số điều của Nghị định số 07/2007/NĐ-CP ngày 12 tháng 01 năm 2007 của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của Luật trợ giúp pháp lý,",
+        "embedding": "",
+        "classification": "",
+        "internal_ner": [],
+        "reference": [],
+        "name": "description5",
+        "tag": "",
+        "parent_ner": [],
+        "aggregation_ner": [],
+        "content": []
+      }
+    ],
+    "mainContent": [
+      {
+        "name": "dieu1",
+        "value": "Điều 1. Sửa đổi, bổ sung một số điều Nghị định số 07/2007/NĐ-CP ngày 12 tháng 01 năm 2007 của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của Luật trợ giúp pháp lý như sau:",
+        "content": [
+          {
+            "name": "khoan1",
+            "value": "1. Điểm k Khoản 2, Khoản 3, Khoản 4, Khoản 7 Điều 2 được sửa đổi và bổ sung khoản 8 vào Điều 2 như sau:",
+            "content": [
+              {
+                "value": "“2. Người có công với cách mạng được trợ giúp pháp lý quy định tại Khoản 2 Điều 10 Luật trợ giúp pháp lý bao gồm:",
+                "embedding": "",
+                "classification": "",
+                "internal_ner": [],
+                "reference": [],
+                "name": "line0",
+                "tag": "",
+                "parent_ner": [],
+                "aggregation_ner": [],
+                "content": []
+              },
+              {
+                "value": "k) Cha đẻ, mẹ đẻ, vợ, chồng của liệt sĩ; con của liệt sĩ; người có công nuôi dưỡng liệt sĩ.",
+                "embedding": "",
+                "classification": "",
+                "internal_ner": [],
+                "reference": [],
+                "name": "line1",
+                "tag": "",
+                "parent_ner": [],
+                "aggregation_ner": [],
+                "content": []
+              },
+              {
+                "value": "3. Người già được trợ giúp pháp lý quy định tại Khoản 3 Điều 10 Luật trợ giúp pháp lý là người từ đủ 60 tuổi trở lên, sống cô đơn, không có nơi nương tựa.",
+                "embedding": "",
+                "classification": "",
+                "internal_ner": [],
+                "reference": [],
+                "name": "line2",
+                "tag": "",
+                "parent_ner": [],
+                "aggregation_ner": [],
+                "content": []
+              },
+              {
+                "value": "4. Người khuyết tật theo Luật người khuyết tật là người bị khiếm khuyết một hoặc nhiều bộ phận cơ thể hoặc bị suy giảm chức năng được biểu hiện dưới dạng tật khiến cho lao động, sinh hoạt, học tập gặp khó khăn; người bị nhiễm chất độc hóa học, bị nhiễm HIV mà không có nơi nương tựa.",
+                "embedding": "",
+                "classification": "",
+                "internal_ner": [],
+                "reference": [],
+                "name": "line3",
+                "tag": "",
+                "parent_ner": [],
+                "aggregation_ner": [],
+                "content": []
+              },
+              {
+                "value": "7. Các đối tượng khác được trợ giúp pháp lý theo quy định tại điều ước quốc tế mà Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên.",
+                "embedding": "",
+                "classification": "",
+                "internal_ner": [],
+                "reference": [],
+                "name": "line4",
+                "tag": "",
+                "parent_ner": [],
+                "aggregation_ner": [],
+                "content": []
+              },
+              {
+                "value": "Bộ trưởng Bộ Tư pháp hướng dẫn về người được trợ giúp pháp lý theo các điều ước quốc tế quy định tại Khoản này.",
+                "embedding": "",
+                "classification": "",
+                "internal_ner": [],
+                "reference": [],
+                "name": "line5",
+                "tag": "",
+                "parent_ner": [],
+                "aggregation_ner": [],
+                "content": []
+              },
+              {
+                "value": "8. Nạn nhân theo quy định của pháp luật phòng, chống mua bán người.”",
+                "embedding": "",
+                "classification": "",
+                "internal_ner": [],
+                "reference": [],
+                "name": "line6",
+                "tag": "",
+                "parent_ner": [],
+                "aggregation_ner": [],
+                "content": []
+              }
+            ],
+            "tag": "",
+            "internal_ner": [],
+            "parent_ner": [],
+            "aggregation_ner": [],
+            "embedding": "",
+            "reference": [],
+            "classification": ""
+          },
+          {
+            "name": "khoan2",
+            "value": "2. Khoản 5 Điều 8 được sửa đổi, bổ sung như sau:",
+            "content": [
+              {
+                "value": "“5. Chịu trách nhiệm bồi thường thiệt hại do lỗi của Trợ giúp viên pháp lý, cộng tác viên trợ giúp pháp lý của Trung tâm gây ra trong quá trình thực hiện trợ giúp pháp lý cho người được trợ giúp pháp lý.”",
+                "embedding": "",
+                "classification": "",
+                "internal_ner": [],
+                "reference": [],
+                "name": "line0",
+                "tag": "",
+                "parent_ner": [],
+                "aggregation_ner": [],
+                "content": []
+              }
+            ],
+            "tag": "",
+            "internal_ner": [],
+            "parent_ner": [],
+            "aggregation_ner": [],
+            "embedding": "",
+            "reference": [],
+            "classification": ""
+          },
+          {
+            "name": "khoan3",
+            "value": "3. Khoản 1 Điều 9 được sửa đổi, bổ sung như sau:",
+            "content": [
+              {
+                "value": "“1. Trung tâm có Giám đốc, Phó Giám đốc, Trợ giúp viên pháp lý và viên chức khác. Giám đốc, Phó Giám đốc Trung tâm phải là Trợ giúp viên pháp lý.”",
+                "embedding": "",
+                "classification": "",
+                "internal_ner": [],
+                "reference": [],
+                "name": "line0",
+                "tag": "",
+                "parent_ner": [],
+                "aggregation_ner": [],
+                "content": []
+              }
+            ],
+            "tag": "",
+            "internal_ner": [],
+            "parent_ner": [],
+            "aggregation_ner": [],
+            "embedding": "",
+            "reference": [],
+            "classification": ""
+          },
+          {
+            "name": "khoan4",
+            "value": "4. Tiêu đề Điều 10, Khoản 1 và Điểm c Khoản 4 Điều 10 được sửa đổi, bổ sung như sau:",
+            "content": [
+              {
+                "value": "“Điều 10. Tiêu chuẩn bổ nhiệm, miễn nhiệm, cách chức Giám đốc Trung tâm",
+                "embedding": "",
+                "classification": "",
+                "internal_ner": [],
+                "reference": [],
+                "name": "line0",
+                "tag": "",
+                "parent_ner": [],
+                "aggregation_ner": [],
+                "content": []
+              },
+              {
+                "value": "1. Người có đủ tiêu chuẩn sau đây thì được đề nghị bổ nhiệm làm Giám đốc Trung tâm:",
+                "embedding": "",
+                "classification": "",
+                "internal_ner": [],
+                "reference": [],
+                "name": "line1",
+                "tag": "",
+                "parent_ner": [],
+                "aggregation_ner": [],
+                "content": []
+              },
+              {
+                "value": "a) Là Trợ giúp viên pháp lý;",
+                "embedding": "",
+                "classification": "",
+                "internal_ner": [],
+                "reference": [],
+                "name": "line2",
+                "tag": "",
+                "parent_ner": [],
+                "aggregation_ner": [],
+                "content": []
+              },
+              {
+                "value": "b) Có năng lực quản lý;",
+                "embedding": "",
+                "classification": "",
+                "internal_ner": [],
+                "reference": [],
+                "name": "line3",
+                "tag": "",
+                "parent_ner": [],
+                "aggregation_ner": [],
+                "content": []
+              },
+              {
+                "value": "c) Có thời gian công tác pháp luật liên tục từ năm năm trở lên.",
+                "embedding": "",
+                "classification": "",
+                "internal_ner": [],
+                "reference": [],
+                "name": "line4",
+                "tag": "",
+                "parent_ner": [],
+                "aggregation_ner": [],
+                "content": []
+              },
+              {
+                "value": "4. Giám đốc Trung tâm bị cách chức khi thuộc một trong các trường hợp sau đây:",
+                "embedding": "",
+                "classification": "",
+                "internal_ner": [],
+                "reference": [],
+                "name": "line5",
+                "tag": "",
+                "parent_ner": [],
+                "aggregation_ner": [],
+                "content": []
+              },
+              {
+                "value": "c) Bị xử lý kỷ luật bằng hình thức cách chức chức vụ quản lý đang đảm nhiệm theo quy định của pháp luật về công chức.”",
+                "embedding": "",
+                "classification": "",
+                "internal_ner": [],
+                "reference": [],
+                "name": "line6",
+                "tag": "",
+                "parent_ner": [],
+                "aggregation_ner": [],
+                "content": []
+              }
+            ],
+            "tag": "",
+            "internal_ner": [],
+            "parent_ner": [],
+            "aggregation_ner": [],
+            "embedding": "",
+            "reference": [],
+            "classification": ""
+          },
+          {
+            "name": "khoan5",
+            "value": "5. Khoản 1 Điều 13 được sửa đổi, bổ sung như sau:",
+            "content": [
+              {
+                "value": "“1. Chi nhánh có Trưởng Chi nhánh, Trợ giúp viên pháp lý và viên chức khác. Trưởng Chi nhánh phải là Trợ giúp viên pháp lý.”",
+                "embedding": "",
+                "classification": "",
+                "internal_ner": [],
+                "reference": [],
+                "name": "line0",
+                "tag": "",
+                "parent_ner": [],
+                "aggregation_ner": [],
+                "content": []
+              }
+            ],
+            "tag": "",
+            "internal_ner": [],
+            "parent_ner": [],
+            "aggregation_ner": [],
+            "embedding": "",
+            "reference": [],
+            "classification": ""
+          },
+          {
+            "name": "khoan6",
+            "value": "6. Tiêu đề Điều 14, Khoản 1 và Khoản 2 Điều 14 được sửa đổi, bổ sung như sau:",
+            "content": [
+              {
+                "value": "“Điều 14. Công chức, viên chức và cơ sở vật chất của Trung tâm và Chi nhánh",
+                "embedding": "",
+                "classification": "",
+                "internal_ner": [],
+                "reference": [],
+                "name": "line0",
+                "tag": "",
+                "parent_ner": [],
+                "aggregation_ner": [],
+                "content": []
+              },
+              {
+                "value": "1. Căn cứ vào khối lượng công việc, tính chất, đặc điểm hoạt động chuyên môn nghiệp vụ và yêu cầu của công tác trợ giúp pháp lý, Ủy ban nhân dân cấp tỉnh quyết định số lượng viên chức cho Trung tâm và Chi nhánh; bảo đảm kinh phí, cơ sở vật chất, trang thiết bị, phương tiện làm việc từ ngân sách địa phương và các nguồn hỗ trợ hợp pháp khác cho Trung tâm và Chi nhánh.",
+                "embedding": "",
+                "classification": "",
+                "internal_ner": [],
+                "reference": [],
+                "name": "line1",
+                "tag": "",
+                "parent_ner": [],
+                "aggregation_ner": [],
+                "content": []
+              },
+              {
+                "value": "2. Việc tuyển dụng, sử dụng và quản lý công chức, viên chức của Trung tâm thực hiện theo quy định của pháp luật tuyển dụng, sử dụng và quản lý công chức, viên chức trong các đơn vị sự nghiệp của Nhà nước.”",
+                "embedding": "",
+                "classification": "",
+                "internal_ner": [],
+                "reference": [],
+                "name": "line2",
+                "tag": "",
+                "parent_ner": [],
+                "aggregation_ner": [],
+                "content": []
+              }
+            ],
+            "tag": "",
+            "internal_ner": [],
+            "parent_ner": [],
+            "aggregation_ner": [],
+            "embedding": "",
+            "reference": [],
+            "classification": ""
+          },
+          {
+            "name": "khoan7",
+            "value": "7. Điều 19 được sửa đổi, bổ sung như sau:",
+            "content": [
+              {
+                "value": "“1. Người có bằng cử nhân luật, đã tốt nghiệp khóa đào tạo nghề luật sư, đang làm việc trong Trung tâm trợ giúp pháp lý nhà nước, được cử tham dự khóa bồi dưỡng nghiệp vụ trợ giúp pháp lý; nếu đạt yêu cầu kiểm tra khóa bồi dưỡng nghiệp vụ trợ giúp pháp lý thì được Cục Trợ giúp pháp lý, Bộ Tư pháp cấp Chứng chỉ bồi dưỡng nghiệp vụ trợ giúp pháp lý theo quy định của pháp luật.",
+                "embedding": "",
+                "classification": "",
+                "internal_ner": [],
+                "reference": [],
+                "name": "line0",
+                "tag": "",
+                "parent_ner": [],
+                "aggregation_ner": [],
+                "content": []
+              },
+              {
+                "value": "Người đã từng là luật sư theo quy định của Luật luật sư hoặc được miễn khóa đào tạo nghề luật sư theo quy định của Luật luật sư, đang làm việc trong Trung tâm trợ giúp pháp lý nhà nước, được cử tham dự kiểm tra bồi dưỡng nghiệp vụ trợ giúp pháp lý; nếu đạt yêu cầu kiểm tra khóa bồi dưỡng nghiệp vụ trợ giúp pháp lý thì được Cục Trợ giúp pháp lý, Bộ Tư pháp cấp Chứng chỉ bồi dưỡng nghiệp vụ trợ giúp pháp lý theo quy định của pháp luật.",
+                "embedding": "",
+                "classification": "",
+                "internal_ner": [],
+                "reference": [],
+                "name": "line1",
+                "tag": "",
+                "parent_ner": [],
+                "aggregation_ner": [],
+                "content": []
+              },
+              {
+                "value": "2. Bộ trưởng Bộ Tư pháp quy định chương trình, thời gian các khóa bồi dưỡng nghiệp vụ trợ giúp pháp lý cho các ngạch Trợ giúp viên pháp lý; ban hành Quy chế tổ chức, kiểm tra và cấp chứng chỉ các khóa bồi dưỡng nghiệp vụ trợ giúp pháp lý.”",
+                "embedding": "",
+                "classification": "",
+                "internal_ner": [],
+                "reference": [],
+                "name": "line2",
+                "tag": "",
+                "parent_ner": [],
+                "aggregation_ner": [],
+                "content": []
+              }
+            ],
+            "tag": "",
+            "internal_ner": [],
+            "parent_ner": [],
+            "aggregation_ner": [],
+            "embedding": "",
+            "reference": [],
+            "classification": ""
+          },
+          {
+            "name": "khoan8",
+            "value": "8. Điều 25 được sửa đổi, bổ sung như sau:",
+            "content": [
+              {
+                "value": "“Điều 25. Ngạch Trợ giúp viên pháp lý",
+                "embedding": "",
+                "classification": "",
+                "internal_ner": [],
+                "reference": [],
+                "name": "line0",
+                "tag": "",
+                "parent_ner": [],
+                "aggregation_ner": [],
+                "content": []
+              },
+              {
+                "value": "1. Trợ giúp viên pháp lý có các ngạch viên chức theo quy định của pháp luật.",
+                "embedding": "",
+                "classification": "",
+                "internal_ner": [],
+                "reference": [],
+                "name": "line1",
+                "tag": "",
+                "parent_ner": [],
+                "aggregation_ner": [],
+                "content": []
+              },
+              {
+                "value": "2. Bộ trưởng Bộ Nội vụ ban hành mã số các ngạch viên chức Trợ giúp viên pháp lý.",
+                "embedding": "",
+                "classification": "",
+                "internal_ner": [],
+                "reference": [],
+                "name": "line2",
+                "tag": "",
+                "parent_ner": [],
+                "aggregation_ner": [],
+                "content": []
+              },
+              {
+                "value": "3. Bộ trưởng Bộ Tư pháp ban hành tiêu chuẩn nghiệp vụ các ngạch Trợ giúp viên pháp lý.”",
+                "embedding": "",
+                "classification": "",
+                "internal_ner": [],
+                "reference": [],
+                "name": "line3",
+                "tag": "",
+                "parent_ner": [],
+                "aggregation_ner": [],
+                "content": []
+              }
+            ],
+            "tag": "",
+            "internal_ner": [],
+            "parent_ner": [],
+            "aggregation_ner": [],
+            "embedding": "",
+            "reference": [],
+            "classification": ""
+          },
+          {
+            "name": "khoan9",
+            "value": "9. Khoản 1 và Khoản 3 Điều 26 được sửa đổi, bổ sung như sau:",
+            "content": [
+              {
+                "value": "“1. Trợ giúp viên pháp lý được xếp lương và trả lương theo bảng lương các ngạch viên chức theo quy định của pháp luật.",
+                "embedding": "",
+                "classification": "",
+                "internal_ner": [],
+                "reference": [],
+                "name": "line0",
+                "tag": "",
+                "parent_ner": [],
+                "aggregation_ner": [],
+                "content": []
+              },
+              {
+                "value": "3. Trợ giúp viên pháp lý được hưởng phụ cấp trách nhiệm theo nghề bằng 25% mức lương hiện hưởng cộng với phụ cấp chức vụ lãnh đạo và phụ cấp vượt khung (nếu có). Khi tham gia tố tụng, thực hiện đại diện ngoài tố tụng, hòa giải, Trợ giúp viên pháp lý được hưởng chế độ bồi dưỡng vụ việc bằng 20% mức bồi dưỡng áp dụng đối với cộng tác viên.”",
+                "embedding": "",
+                "classification": "",
+                "internal_ner": [],
+                "reference": [],
+                "name": "line1",
+                "tag": "",
+                "parent_ner": [],
+                "aggregation_ner": [],
+                "content": []
+              }
+            ],
+            "tag": "",
+            "internal_ner": [],
+            "parent_ner": [],
+            "aggregation_ner": [],
+            "embedding": "",
+            "reference": [],
+            "classification": ""
+          },
+          {
+            "name": "khoan10",
+            "value": "10. Bổ sung Điều 26a như sau:",
+            "content": [
+              {
+                "value": "“Điều 26a. Trang phục của Trợ giúp viên pháp lý",
+                "embedding": "",
+                "classification": "",
+                "internal_ner": [],
+                "reference": [],
+                "name": "line0",
+                "tag": "",
+                "parent_ner": [],
+                "aggregation_ner": [],
+                "content": []
+              },
+              {
+                "value": "1. Trợ giúp viên pháp lý được cấp trang phục riêng.",
+                "embedding": "",
+                "classification": "",
+                "internal_ner": [],
+                "reference": [],
+                "name": "line1",
+                "tag": "",
+                "parent_ner": [],
+                "aggregation_ner": [],
+                "content": []
+              },
+              {
+                "value": "2. Bộ trưởng Bộ Tài chính thống nhất với Bộ trưởng Bộ Tư pháp quy định cụ thể về chế độ cấp trang phục cho Trợ giúp viên pháp lý.",
+                "embedding": "",
+                "classification": "",
+                "internal_ner": [],
+                "reference": [],
+                "name": "line2",
+                "tag": "",
+                "parent_ner": [],
+                "aggregation_ner": [],
+                "content": []
+              },
+              {
+                "value": "3. Bộ trưởng Bộ Tư pháp quy định mẫu trang phục, việc quản lý, sử dụng trang phục của Trợ giúp viên pháp lý.”",
+                "embedding": "",
+                "classification": "",
+                "internal_ner": [],
+                "reference": [],
+                "name": "line3",
+                "tag": "",
+                "parent_ner": [],
+                "aggregation_ner": [],
+                "content": []
+              }
+            ],
+            "tag": "",
+            "internal_ner": [],
+            "parent_ner": [],
+            "aggregation_ner": [],
+            "embedding": "",
+            "reference": [],
+            "classification": ""
+          },
+          {
+            "name": "khoan11",
+            "value": "11. Điều 32 được cơ cấu lại các điểm như sau:",
+            "content": [
+              {
+                "value": "“Khi tham gia trợ giúp pháp lý, cộng tác viên có các quyền và nghĩa vụ quy định tại Điều 25 Luật trợ giúp pháp lý, có quyền lợi, trách nhiệm sau đây:",
+                "embedding": "",
+                "classification": "",
+                "internal_ner": [],
+                "reference": [],
+                "name": "line0",
+                "tag": "",
+                "parent_ner": [],
+                "aggregation_ner": [],
+                "content": []
+              },
+              {
+                "value": "1. Được nhận bồi dưỡng và các chi phí hành chính hợp lý theo quy định của pháp luật theo vụ việc cụ thể;",
+                "embedding": "",
+                "classification": "",
+                "internal_ner": [],
+                "reference": [],
+                "name": "line1",
+                "tag": "",
+                "parent_ner": [],
+                "aggregation_ner": [],
+                "content": []
+              },
+              {
+                "value": "2. Được đề xuất, kiến nghị về việc mở rộng và nâng cao hiệu quả hoạt động của Trung tâm;",
+                "embedding": "",
+                "classification": "",
+                "internal_ner": [],
+                "reference": [],
+                "name": "line2",
+                "tag": "",
+                "parent_ner": [],
+                "aggregation_ner": [],
+                "content": []
+              },
+              {
+                "value": "3. Được biểu dương, khen thưởng khi có thành tích trong công tác trợ giúp pháp lý;",
+                "embedding": "",
+                "classification": "",
+                "internal_ner": [],
+                "reference": [],
+                "name": "line3",
+                "tag": "",
+                "parent_ner": [],
+                "aggregation_ner": [],
+                "content": []
+              },
+              {
+                "value": "4. Sử dụng thẻ cộng tác viên theo quy định tại Điều 29 Nghị định này; nộp lại thẻ cộng tác viên khi bị thu hồi theo quy định tại Điều 30 Nghị định này;",
+                "embedding": "",
+                "classification": "",
+                "internal_ner": [],
+                "reference": [],
+                "name": "line4",
+                "tag": "",
+                "parent_ner": [],
+                "aggregation_ner": [],
+                "content": []
+              },
+              {
+                "value": "5. Chịu trách nhiệm trước Giám đốc Trung tâm và trước pháp luật về việc thực hiện vụ việc trợ giúp pháp lý của mình. Trong trường hợp làm việc tại Chi nhánh thì còn phải chịu trách nhiệm trước Trưởng Chi nhánh;",
+                "embedding": "",
+                "classification": "",
+                "internal_ner": [],
+                "reference": [],
+                "name": "line5",
+                "tag": "",
+                "parent_ner": [],
+                "aggregation_ner": [],
+                "content": []
+              },
+              {
+                "value": "6. Trong trường hợp cộng tác viên thực hiện trợ giúp pháp lý mà gây thiệt hại thì Trung tâm nơi người đó cộng tác có trách nhiệm bồi thường. Cộng tác viên đã gây thiệt hại có trách nhiệm bồi hoàn cho Trung tâm theo quy định của pháp luật về dân sự;",
+                "embedding": "",
+                "classification": "",
+                "internal_ner": [],
+                "reference": [],
+                "name": "line6",
+                "tag": "",
+                "parent_ner": [],
+                "aggregation_ner": [],
+                "content": []
+              },
+              {
+                "value": "7. Báo cáo định kỳ và đột xuất theo yêu cầu của Trung tâm; kịp thời báo cáo những vấn đề phát sinh trong quá trình thực hiện trợ giúp pháp lý và đề xuất biện pháp giải quyết với lãnh đạo Trung tâm.”",
+                "embedding": "",
+                "classification": "",
+                "internal_ner": [],
+                "reference": [],
+                "name": "line7",
+                "tag": "",
+                "parent_ner": [],
+                "aggregation_ner": [],
+                "content": []
+              }
+            ],
+            "tag": "",
+            "internal_ner": [],
+            "parent_ner": [],
+            "aggregation_ner": [],
+            "embedding": "",
+            "reference": [],
+            "classification": ""
+          },
+          {
+            "name": "khoan12",
+            "value": "12. Khoản 2 Điều 33 được sửa đổi, bổ sung như sau:",
+            "content": [
+              {
+                "value": "“2. Cộng tác viên được hưởng chế độ bồi dưỡng theo vụ việc trợ giúp pháp lý đã thực hiện căn cứ vào số giờ tư vấn pháp luật và các hình thức trợ giúp pháp lý khác. Chế độ bồi dưỡng theo ngày làm việc được áp dụng đối với các vụ việc trợ giúp pháp lý do cộng tác viên thực hiện bằng hình thức tham gia tố tụng, đại diện ngoài tố tụng.",
+                "embedding": "",
+                "classification": "",
+                "internal_ner": [],
+                "reference": [],
+                "name": "line0",
+                "tag": "",
+                "parent_ner": [],
+                "aggregation_ner": [],
+                "content": []
+              },
+              {
+                "value": "Mức bồi dưỡng theo vụ việc trợ giúp pháp lý cho cộng tác viên được xây dựng căn cứ vào chất lượng nội dung trợ giúp pháp lý, thời gian thực hiện trợ giúp pháp lý, tính chất phức tạp của vụ việc trợ giúp pháp lý, hình thức thể hiện kết quả trợ giúp pháp lý, hình thức trợ giúp pháp lý.",
+                "embedding": "",
+                "classification": "",
+                "internal_ner": [],
+                "reference": [],
+                "name": "line1",
+                "tag": "",
+                "parent_ner": [],
+                "aggregation_ner": [],
+                "content": []
+              },
+              {
+                "value": "Trong trường hợp thực hiện trợ giúp pháp lý bằng hình thức tham gia tố tụng thì mức bồi dưỡng được trả cho cộng tác viên là 0,2 mức lương tối thiểu/01 ngày làm việc của cộng tác viên.",
+                "embedding": "",
+                "classification": "",
+                "internal_ner": [],
+                "reference": [],
+                "name": "line2",
+                "tag": "",
+                "parent_ner": [],
+                "aggregation_ner": [],
+                "content": []
+              },
+              {
+                "value": "Thời gian thực hiện trợ giúp pháp lý bao gồm thời gian nghiên cứu hồ sơ vụ việc và chuẩn bị tài liệu phục vụ cho việc thực hiện trợ giúp pháp lý, thời gian gặp gỡ, tiếp xúc với người được trợ giúp pháp lý hoặc thân nhân của họ, thời gian xác minh vụ việc trợ giúp pháp lý, thời gian làm việc tại các cơ quan, tổ chức, cá nhân có liên quan đến vụ việc trợ giúp pháp lý. Căn cứ để xác định thời gian làm việc của cộng tác viên là thời gian làm việc có xác nhận của cơ quan, tổ chức, cá nhân có liên quan.”",
+                "embedding": "",
+                "classification": "",
+                "internal_ner": [],
+                "reference": [],
+                "name": "line3",
+                "tag": "",
+                "parent_ner": [],
+                "aggregation_ner": [],
+                "content": []
+              }
+            ],
+            "tag": "",
+            "internal_ner": [],
+            "parent_ner": [],
+            "aggregation_ner": [],
+            "embedding": "",
+            "reference": [],
+            "classification": ""
+          },
+          {
+            "name": "khoan13",
+            "value": "13. Khoản 3 Điều 35 được sửa đổi, bổ sung như sau:",
+            "content": [
+              {
+                "value": "“3. Trung tâm hoặc Chi nhánh tổ chức các đạt trợ giúp pháp lý lưu động. Khi thực hiện trợ giúp pháp lý lưu động, Trung tâm, Chi nhánh được đề nghị các cơ quan, ban, ngành có liên quan ở địa phương phối hợp cử người đại diện tham gia. Người tham gia trợ giúp pháp lý lưu động được hưởng chế độ, chính sách theo quy định đối với cán bộ, công chức, viên chức đi công tác.”",
+                "embedding": "",
+                "classification": "",
+                "internal_ner": [],
+                "reference": [],
+                "name": "line0",
+                "tag": "",
+                "parent_ner": [],
+                "aggregation_ner": [],
+                "content": []
+              }
+            ],
+            "tag": "",
+            "internal_ner": [],
+            "parent_ner": [],
+            "aggregation_ner": [],
+            "embedding": "",
+            "reference": [],
+            "classification": ""
+          },
+          {
+            "name": "khoan14",
+            "value": "14. Điều 36 được sửa đổi, bổ sung như sau:",
+            "content": [
+              {
+                "value": "“1. Câu lạc bộ trợ giúp pháp lý là một hình thức hoạt động trợ giúp pháp lý cộng đồng, tạo điều kiện cho người được trợ giúp pháp lý, người thuộc hộ cận nghèo và người dân có vướng mắc pháp luật ở địa phương tham gia sinh hoạt. Thông qua tư vấn pháp luật, Câu lạc bộ giúp người được trợ giúp pháp lý nâng cao nhận thức pháp luật để thực hiện pháp luật, tự mình giải quyết vướng mắc pháp luật, bảo vệ quyền, lợi ích hợp pháp của mình.",
+                "embedding": "",
+                "classification": "",
+                "internal_ner": [],
+                "reference": [],
+                "name": "line0",
+                "tag": "",
+                "parent_ner": [],
+                "aggregation_ner": [],
+                "content": []
+              },
+              {
+                "value": "2. Câu lạc bộ trợ giúp pháp lý chịu sự quản lý nhà nước của Ủy ban nhân dân cấp xã. Chi phí sinh hoạt Câu lạc bộ trợ giúp pháp lý bao gồm chi phí cho việc sao chụp tài liệu và một số khoản chi hợp lý khác do Trung tâm chịu trách nhiệm, Ủy ban nhân dân cấp xã tạo điều kiện, hỗ trợ về địa điểm và nước uống.",
+                "embedding": "",
+                "classification": "",
+                "internal_ner": [],
+                "reference": [],
+                "name": "line1",
+                "tag": "",
+                "parent_ner": [],
+                "aggregation_ner": [],
+                "content": []
+              },
+              {
+                "value": "3. Chủ tịch Ủy ban nhân dân cấp xã quyết định thành lập và phê duyệt Điều lệ của Câu lạc bộ trợ giúp pháp lý trên cơ sở Điều lệ mẫu về Câu lạc bộ trợ giúp pháp lý do Bộ trưởng Bộ Tư pháp ban hành.”",
+                "embedding": "",
+                "classification": "",
+                "internal_ner": [],
+                "reference": [],
+                "name": "line2",
+                "tag": "",
+                "parent_ner": [],
+                "aggregation_ner": [],
+                "content": []
+              }
+            ],
+            "tag": "",
+            "internal_ner": [],
+            "parent_ner": [],
+            "aggregation_ner": [],
+            "embedding": "",
+            "reference": [],
+            "classification": ""
+          },
+          {
+            "name": "khoan15",
+            "value": "15. Khoản 1 và Khoản 2 Điều 41 được sửa đổi, bổ sung như sau:",
+            "content": [
+              {
+                "value": "“1. Khi có đủ căn cứ cho rằng đã quá thời hạn quy định mà cơ quan nhà nước có thẩm quyền không giải quyết vụ việc hoặc không tiếp nhận giải quyết vụ việc hoặc kết quả giải quyết vụ việc chưa phù hợp với quy định của pháp luật, gây thiệt hại cho người được trợ giúp pháp lý thì tổ chức thực hiện trợ giúp pháp lý kiến nghị với cơ quan nhà nước có thẩm quyền xem xét giải quyết vụ việc để bảo vệ quyền, lợi ích hợp pháp của người được trợ giúp pháp lý. Khi kiến nghị, tổ chức thực hiện trợ giúp pháp lý phải nêu rõ nội dung vụ việc, căn cứ pháp luật được áp dụng, hướng giải quyết vụ việc và chịu trách nhiệm về tính đúng đắn của kiến nghị.",
+                "embedding": "",
+                "classification": "",
+                "internal_ner": [],
+                "reference": [],
+                "name": "line0",
+                "tag": "",
+                "parent_ner": [],
+                "aggregation_ner": [],
+                "content": []
+              },
+              {
+                "value": "2. Cơ quan nhà nước có thẩm quyền giải quyết vụ việc khi nhận được văn bản kiến nghị của tổ chức thực hiện trợ giúp pháp lý có trách nhiệm xem xét, giải quyết và trả lời bằng văn bản trong thời hạn ba mươi ngày, kể từ ngày nhận được kiến nghị; trong trường hợp có lý do chính đáng thì thời hạn trên có thể kéo dài, nhưng không quá bốn mươi lăm ngày, trừ trường hợp pháp luật có quy định khác.",
+                "embedding": "",
+                "classification": "",
+                "internal_ner": [],
+                "reference": [],
+                "name": "line1",
+                "tag": "",
+                "parent_ner": [],
+                "aggregation_ner": [],
+                "content": []
+              },
+              {
+                "value": "Trong trường hợp quá thời hạn nêu trên mà cơ quan nhà nước có thẩm quyền không giải quyết vụ việc hoặc không trả lời thì tổ chức thực hiện trợ giúp pháp lý được kiến nghị với cơ quan nhà nước cấp trên trực tiếp của cơ quan nhà nước có thẩm quyền để giải quyết theo quy định của pháp luật. Cơ quan nhà nước cấp trên trực tiếp có trách nhiệm chỉ đạo, xử lý vụ việc có kiến nghị trong thời hạn ba mươi ngày, kể từ ngày nhận được kiến nghị và thông báo bằng văn bản cho tổ chức thực hiện trợ giúp pháp lý về kết quả giải quyết vụ việc.”",
+                "embedding": "",
+                "classification": "",
+                "internal_ner": [],
+                "reference": [],
+                "name": "line2",
+                "tag": "",
+                "parent_ner": [],
+                "aggregation_ner": [],
+                "content": []
+              }
+            ],
+            "tag": "",
+            "internal_ner": [],
+            "parent_ner": [],
+            "aggregation_ner": [],
+            "embedding": "",
+            "reference": [],
+            "classification": ""
+          },
+          {
+            "name": "khoan16",
+            "value": "16. Khoản 1 và Khoản 2 Điều 43 được sửa đổi, bổ sung như sau:",
+            "content": [
+              {
+                "value": "“1. Đánh giá chất lượng vụ việc trợ giúp pháp lý là việc áp dụng các tiêu chí chất lượng vụ việc trợ giúp pháp lý để đánh giá quá trình thực hiện trợ giúp pháp lý, việc tuân thủ quy tắc nghề nghiệp và áp dụng pháp luật của người thực hiện trợ giúp pháp lý; tạo cơ sở để xác định trách nhiệm của người thực hiện trợ giúp pháp lý đối với vụ việc trợ giúp pháp lý.",
+                "embedding": "",
+                "classification": "",
+                "internal_ner": [],
+                "reference": [],
+                "name": "line0",
+                "tag": "",
+                "parent_ner": [],
+                "aggregation_ner": [],
+                "content": []
+              },
+              {
+                "value": "2. Tiêu chí đánh giá chất lượng vụ việc trợ giúp pháp lý gồm các nội dung chủ yếu sau đây: Tạo điều kiện thuận lợi cho người được trợ giúp pháp lý tiếp cận, trình bày và cung cấp thông tin về vụ việc trợ giúp pháp lý; vụ việc trợ giúp pháp lý được thực hiện bảo đảm tính toàn diện và kịp thời; nội dung trợ giúp pháp lý phù hợp với pháp luật và đạo đức xã hội; trình tự, thủ tục thực \t\thiện trợ giúp pháp lý theo đúng quy định của pháp luật; người được trợ giúp pháp lý hài lòng về tinh thần, thái độ phục vụ, cách thức thực hiện, nội dung trợ giúp pháp lý; hồ sơ vụ việc trợ giúp pháp lý được lập phù hợp với quy định của pháp luật.”",
+                "embedding": "",
+                "classification": "",
+                "internal_ner": [],
+                "reference": [],
+                "name": "line1",
+                "tag": "",
+                "parent_ner": [],
+                "aggregation_ner": [],
+                "content": []
+              }
+            ],
+            "tag": "",
+            "internal_ner": [],
+            "parent_ner": [],
+            "aggregation_ner": [],
+            "embedding": "",
+            "reference": [],
+            "classification": ""
+          }
+        ],
+        "tag": "",
+        "internal_ner": [],
+        "parent_ner": [],
+        "aggregation_ner": [],
+        "embedding": "",
+        "reference": [],
+        "classification": ""
+      },
+      {
+        "name": "dieu2",
+        "value": "Điều 2. Hiệu lực thi hành",
+        "content": [
+          {
+            "value": "Nghị định này có hiệu lực thi hành từ ngày 31 tháng 3 năm 2013.",
+            "embedding": "",
+            "classification": "",
+            "internal_ner": [],
+            "reference": [],
+            "name": "line0",
+            "tag": "",
+            "parent_ner": [],
+            "aggregation_ner": [],
+            "content": []
+          }
+        ],
+        "tag": "",
+        "internal_ner": [],
+        "parent_ner": [],
+        "aggregation_ner": [],
+        "embedding": "",
+        "reference": [],
+        "classification": ""
+      },
+      {
+        "name": "dieu3",
+        "value": "Điều 3. Trách nhiệm thi hành",
+        "content": [
+          {
+            "value": "Các Bộ trưởng, Thủ trưởng cơ quan ngang Bộ, Thủ trưởng cơ quan thuộc Chính phủ, Chủ tịch Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương chịu trách nhiệm thi hành Nghị định này./",
+            "embedding": "",
+            "classification": "",
+            "internal_ner": [],
+            "reference": [],
+            "name": "line0",
+            "tag": "",
+            "parent_ner": [],
+            "aggregation_ner": [],
+            "content": []
+          }
+        ],
+        "tag": "",
+        "internal_ner": [],
+        "parent_ner": [],
+        "aggregation_ner": [],
+        "embedding": "",
+        "reference": [],
+        "classification": ""
+      }
+    ],
+    "footer": [
+      {
+        "value": "Nơi nhận:\t\t\t\t\t\t- Ban Bí thư Trung ương Đảng;\t\t\t\t\t\t- Thủ tướng, các Phó Thủ tướng Chính phủ;\t\t\t\t\t\t- Các Bộ, cơ quan ngang Bộ, cơ quan thuộc CP;\t\t\t\t\t\t- VP BCĐ TW về phòng, chống tham nhũng;\t\t\t\t\t\t- HĐND, UBND các tỉnh, TP trực thuộc TW;\t\t\t\t\t\t- Văn phòng Trung ương và các Ban của Đảng;\t\t\t\t\t\t- Văn phòng Tổng Bí thư;\t\t\t\t\t\t- Văn phòng Chủ tịch nước;\t\t\t\t\t\t- Hội đồng Dân tộc và các Ủy ban của Quốc hội;\t\t\t\t\t\t- Văn phòng Quốc hội;\t\t\t\t\t\t- Tòa án nhân dân tối cao;\t\t\t\t\t\t- Viện kiểm sát nhân dân tối cao;\t\t\t\t\t\t- Kiểm toán Nhà nước;\t\t\t\t\t\t- Ủy ban Giám sát tài chính Quốc gia;\t\t\t\t\t\t- Ngân hàng Chính sách xã hội;\t\t\t\t\t\t- Ngân hàng Phát triển Việt Nam;\t\t\t\t\t\t- UBTW Mặt trận Tổ quốc Việt Nam;\t\t\t\t\t\t- Cơ quan Trung ương của các đoàn thể;\t\t\t\t\t\t- VPCP: BTCN, các PCN, Trợ lý TTCP, cổng TTĐT, các Vụ, Cục, đơn vị trực thuộc, Công báo;\t\t\t\t\t\t- Lưu: Văn thư, PL (3b).",
+        "name": "footer0",
+        "classification": "",
+        "internal_ner": [],
+        "embedding": "",
+        "reference": [],
+        "content": [],
+        "tag": "",
+        "parent_ner": [],
+        "aggregation_ner": []
+      },
+      {
+        "value": "TM. CHÍNH PHỦ\t\t\t\t\t\tTHỦ TƯỚNG\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tNguyễn Tấn Dũng",
+        "name": "footer1",
+        "classification": "",
+        "internal_ner": [],
+        "embedding": "",
+        "reference": [],
+        "content": [],
+        "tag": "",
+        "parent_ner": [],
+        "aggregation_ner": []
+      }
+    ],
+    "extend": [
+      "\n\t\t<span lang=\"VI\">&nbsp;</span>"
+    ]
+  },
+  "relationLaws": [],
+  "createdAt": "2024-11-07T13:57:45.699Z",
+  "updatedAt": "2024-11-07T13:57:45.701Z"
+}

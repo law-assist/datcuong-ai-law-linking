@@ -358,6 +358,7 @@ class Tree:
         full_address_with_name = node.address + [self.legislation_name]
 
         for an_referencing_ner in refering_node.aggregation_ner:
+            # Khi aggregation_ner chỉ có một điều luật đứng riêng được (Luật, số hiệu, chính bản thân văn bản đang xử lí)
             if len(an_referencing_ner) == 1:
                 referencing_address = an_referencing_ner[0]
                 # print("debug 1: ", referencing_address)
@@ -366,6 +367,7 @@ class Tree:
                     new_reference = {"lawId": self.db_id, "LawRef": [], "index": None, "classification": refering_node.classification}
                     if new_reference not in refering_node.reference:
                         refering_node.reference += [new_reference]
+            # Khi có thêm vị trí cụ thể của nơi được ref (Điểm, điều, khoản)
             elif an_referencing_ner == full_address_with_id or an_referencing_ner == full_address_with_name:
                 if node.address != []:
                     new_reference = {"lawId": self.db_id, "LawRef": list(reversed(node.address + ["mainContent"])), "index": node.id, "type": "referring", "classification": refering_node.classification}

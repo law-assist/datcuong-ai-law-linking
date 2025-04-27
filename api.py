@@ -10,6 +10,7 @@ import glob
 import time
 import torch
 from bson.objectid import ObjectId
+import uvicorn
 
 app = FastAPI()
 
@@ -79,6 +80,7 @@ def matching_function(json_data):
     #Load model
     ner_model, ner_tokenizer, model_classification, tokenizer_classification, similarity_tokenizer_V2, similarity_model_V2 = load_model()
 
+    # Build Tree structure from legislation json data from DB
     tree = build_tree_from_json(json_data, 
                                 ner_model, 
                                 ner_tokenizer, 
@@ -87,17 +89,22 @@ def matching_function(json_data):
                                 similarity_tokenizer_V2, 
                                 similarity_model_V2)
 
+    # Get infomation from description part (via NER model) and use it to find refered legislations
     description_data = json_data['content']['description']
     relationLaws = get_refered_legislation(description_data, tree)
 
+    # Print relationLaws field of the input legislation json data
     print("relationLaws: ", relationLaws)
 
+    # Find the referred legislations in DB
     json_data_referred_legislations = matching_name_or_id_in_db(relationLaws, json_data['dateApproved'])
 
+    # Update relationsLaws field in the json format of the input legislation
     relationLaws_enhanced = enhance_relation_laws_information_for_referring(tree, relationLaws, json_data_referred_legislations)
     enhance_referring_information_for_relation_laws(relationLaws_enhanced, json_data, json_data_referred_legislations)
     
-
+    # Rebuild Tree structure from updated json data (with relationLaws) and run it
+    # Run it through both the classification model and NER model
     print("Build trees for referred...")
     tree_referred_legislations = [build_tree_from_json(json_data_referred_legislation, 
                                                        ner_model, ner_tokenizer, 
@@ -107,6 +114,7 @@ def matching_function(json_data):
                                                        similarity_model_V2) 
                                                        for json_data_referred_legislation in json_data_referred_legislations]
     
+    # Update reference field at each node according to aggr_ner
     print("Do ner matching...")
     match_ner(tree, tree_referred_legislations)
 
@@ -183,3 +191,5 @@ def matching_function(json_data):
 
     return {"message": "Successful", "data": json_data, "update_data_in_db": json_data_referred_legislations}
 
+if __name__ == "__main__":
+    uvicorn.run(app, host="0.0.0.0", port=8000)

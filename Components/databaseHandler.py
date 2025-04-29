@@ -16,6 +16,13 @@ def convert_document_from_db_to_available_json(document):
 
     return document
 
+def convert_document_from_json_to_db_instance(document):
+    document["dateApproved"] = convert_string_to_datetime(document["dateApproved"])
+    document["createdAt"] = convert_string_to_datetime(document["createdAt"])
+    document["updatedAt"] = convert_string_to_datetime(document["updatedAt"])
+    
+    return document
+
 def get_db_from_mongo(mongo_url: str):
     # Kết nối đến MongoDB
     client = MongoClient(mongo_url)
@@ -52,6 +59,37 @@ def get_legislation_by_query(query):
     return message
 
 
+def update_legistration_after_linking(json_data, json_data_referred_legislations):
+    # Lấy collection từ hàm get_db_from_mongo
+    collection, client = get_db_from_mongo(DATABASE_URI)
+    message = {"message": ""}
+    
+    try:
+        lesgitration_id = ObjectId(json_data["_id"])
+        query = {"_id": lesgitration_id}
+        # json_data["_id"] = input_lesgitration_id
+        updated_legistration = {i: json_data[i] for i in json_data if i!= "_id"}
+        updated_legistration = convert_document_from_json_to_db_instance(updated_legistration)
+        updated_legistration = {"$set": updated_legistration}
+        collection.update_one(query, updated_legistration)
+        
+        for legistration in json_data_referred_legislations:
+            referred_id = ObjectId(legistration["_id"])
+            referred_query = {"_id": referred_id}
+            # legistration["_id"] = referred_id
+            updated_referred_legistration = {i: legistration[i] for i in legistration if i!="_id"}
+            updated_referred_legistration = convert_document_from_json_to_db_instance(updated_referred_legistration)
+            updated_referred_legistration = {"$set": updated_referred_legistration}
+            collection.update_one(referred_query, updated_referred_legistration)
+            
+        message = {"message": "Update success"}
+    except Exception as e:
+        # Xử lý nếu có lỗi xảy ra
+        message = {"message": f"An error occurred during DB update: {str(e)}"}
+        
+    client.close()
+    
+    return message
 
 # Hàm chuyển đổi string ISO 8601 thành datetime
 def ensure_datetime(date_value):
@@ -81,6 +119,17 @@ def convert_datetime_to_string(date_value):
                 return datetime.strftime(date_value, '%Y-%m-%dT%H:%M:%SZ')
             except ValueError:
                 raise ValueError(f"Invalid value format for datetime: {date_value}")        
+            
+def convert_string_to_datetime(string_value):
+    if isinstance(string_value, str):
+        try:
+            return datetime.strptime(string_value, '%Y-%m-%dT%H:%M:%S.%fZ')   
+        except ValueError:
+            try:
+                return datetime.strptime(string_value, '%Y-%m-%dT%H:%M:%SZ')
+            except ValueError:
+                raise ValueError(f"Invalid value format for datetime: {string_value}")  
+            
 
 def filter_relative_law(relative_laws, refering_date, filter_attribute):
     # Lọc ra những văn bản có cùng tên nhưng khác date approve            

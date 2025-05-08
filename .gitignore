@@ -8,12 +8,15 @@ __pycache__
 Đồ_án_tốt_nghiệp___HK241.pdf
 Slide_DACN.pdf
 
+# environment
+.env
+
 # test
-test.py
-testing_ner.py
-testing_ner.json
-testing_similarity.json
+# test.py
+# testing_ner.py
+# testing_ner.json
+# testing_similarity.json
 
 # model
-*.safetensors
-*.pt
+# *.safetensors
+# *.pt

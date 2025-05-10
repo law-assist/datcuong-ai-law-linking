@@ -1,4 +1,6 @@
-fastapi
+# requirements.txt
+
+fastapi[standard]
 torch   
 transformers
 unidecode

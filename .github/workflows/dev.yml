@@ -1,0 +1,20 @@
+name: Law assist AI law linking development
+
+on:
+  push:
+    branches: [ "dev" ]
+  pull_request:
+    branches: [ "dev" ]
+  workflow_dispatch:
+
+jobs:
+
+  dev-container-build-push:
+    runs-on: [self-hosted, deployment]
+
+    steps:
+    - name: Checkout
+      uses: actions/checkout@v4
+
+    - name: Check source code in runner
+      run: "ls -a"

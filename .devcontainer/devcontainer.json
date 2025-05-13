@@ -1,0 +1,40 @@
+{
+  // Dev container name
+  "name": "AI law linking dev environment",
+  // Base image for dev container
+  "build": {
+		"dockerfile": "Dockerfile",
+		"options": ["--tag=ai-law-linking-dev"]
+	},
+  // Use GPU support
+  "runArgs": [
+    "--gpus=all"
+  ],
+  // Use 'forwardPorts' to make a list of ports inside the container available locally.
+  "forwardPorts": [8000],
+  // Use 'postCreateCommand' to run command after container created.
+  "postCreateCommand": [
+    "nvidia-smi"
+  ],
+  // Features to add 
+  "features": {
+    "ghcr.io/devcontainers/features/git-lfs:1": {}
+  },
+  // Use 'postStartCommand' to run command after container started.
+  "postStartCommand": "pip3 install -r requirement.txt",
+  // Configure tool-specific properties.
+  "customizations": {
+    // "python.terminal.activateEnvInCurrentTerminal": true,
+    // "python.defaultInterpreterPath": ".venv/bin/python",
+    "vscode": {
+      "extensions": [
+        "ms-python.python",
+        "ms-python.vscode-pylance",
+        "donjayamanne.python-environment-manager",
+        "ms-python.debugpy",
+        "eamodio.gitlens"
+      ]
+    }
+  },
+  "remoteUser": "root"
+}

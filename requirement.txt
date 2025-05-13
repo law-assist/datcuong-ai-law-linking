@@ -1,8 +1,10 @@
 # requirements.txt
 
 fastapi[standard]
-torch   
+torch
+torchvision
+torchaudio
 transformers
-unidecode
 sentence_transformers
+unidecode
 pymongo

@@ -16,5 +16,14 @@ jobs:
     - name: Checkout
       uses: actions/checkout@v4
 
+    - name: Copy models to runner
+      run: |
+        cp /home/la-2025/models/Classification_model/model.safetensors models/Classification_model/
+        cp /home/la-2025/models/ner_model/model.safetensors models/ner_model/
+        mkdir models/STS_model
+        mkdir models/STS_model_V2
+        cp /home/la-2025/models/STS_model/bert-sts-similarity.pt models/STS_model/
+        cp /home/la-2025/models/STS_model_V2/bert-sts-V2.pt models/STS_model_V2/
+
     - name: Check source code in runner
-      run: "ls -a"
+      run: "ls models -a -R"

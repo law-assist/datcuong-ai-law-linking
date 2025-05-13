@@ -21,11 +21,9 @@
     "ghcr.io/devcontainers/features/git-lfs:1": {}
   },
   // Use 'postStartCommand' to run command after container started.
-  "postStartCommand": "pip3 install -r requirement.txt",
+  // "postStartCommand": "pip3 install -r requirement.txt",
   // Configure tool-specific properties.
   "customizations": {
-    // "python.terminal.activateEnvInCurrentTerminal": true,
-    // "python.defaultInterpreterPath": ".venv/bin/python",
     "vscode": {
       "extensions": [
         "ms-python.python",

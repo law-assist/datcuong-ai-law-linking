@@ -16,12 +16,6 @@
   "postCreateCommand": [
     "nvidia-smi"
   ],
-  // Features to add 
-  "features": {
-    "ghcr.io/devcontainers/features/git-lfs:1": {}
-  },
-  // Use 'postStartCommand' to run command after container started.
-  // "postStartCommand": "pip3 install -r requirement.txt",
   // Configure tool-specific properties.
   "customizations": {
     "vscode": {

@@ -21,6 +21,10 @@ ENV PATH="$PATH:/usr/bin/python3.10"
 RUN --mount=type=bind,source=requirements.txt,target=/tmp/requirements.txt \
     pip install --no-cache-dir --requirement /tmp/requirements.txt
 
+# install Git LFS
+RUN apt-get install git-lfs && \
+    git lfs install
+
 # Dev Environment:
     # Python: ✅ 3.10
     # Python libraries: Pytorch, FastAPI, Pymongo

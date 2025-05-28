@@ -11,6 +11,10 @@ RUN apt-get install -y \
 # update PATH for Python
 ENV PATH="$PATH:/usr/bin/python3.10"
 
+# environment variables from GitHub Actions
+ARG DATABASE_URI
+ENV DATABASE_URI=$DATABASE_URI
+
 # create non-privilaged user
 RUN addgroup --system fastapi && adduser --system --group fastapi
 USER fastapi

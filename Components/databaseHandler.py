@@ -5,7 +5,7 @@ from bson.objectid import ObjectId
 import re, os
 from dotenv import load_dotenv
 
-load_dotenv()
+load_dotenv(dotenv_path="../.env")
 DATABASE_URI = os.getenv('DATABASE_URI')
 
 def convert_document_from_db_to_available_json(document):

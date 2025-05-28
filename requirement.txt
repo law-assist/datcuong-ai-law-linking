@@ -1,6 +1,0 @@
-fastapi
-torch   
-transformers
-unidecode
-sentence_transformers
-pymongo

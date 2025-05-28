@@ -1,0 +1,10 @@
+# requirements.txt
+
+fastapi[standard]
+torch
+torchvision
+torchaudio
+transformers
+sentence_transformers
+unidecode
+pymongo

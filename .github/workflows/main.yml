@@ -1,0 +1,79 @@
+name: Law assist AI law linking production CI
+
+on:
+  push:
+    branches: [ "master", "main" ]
+
+jobs:
+
+  docker-build-push:
+    runs-on: [self-hosted, deployment]
+
+    steps:
+    - name: Checkout
+      uses: actions/checkout@v4
+
+    - name: Copy models to runner
+      run: |
+        cp /home/la-2025/models/Classification_model/model.safetensors models/Classification_model/
+        cp /home/la-2025/models/ner_model/model.safetensors models/ner_model/
+        mkdir models/STS_model
+        mkdir models/STS_model_V2
+        cp /home/la-2025/models/STS_model/bert-sts-similarity.pt models/STS_model/
+        cp /home/la-2025/models/STS_model_V2/bert-sts-V2.pt models/STS_model_V2/
+
+    - name: Check models in runner source code
+      run: |
+        ls models -a -R
+
+    - name: Login Docker Hub
+      uses: docker/login-action@v3.4.0
+      with:
+        username: ${{ secrets.DOCKER_USERNAME }}
+        password: ${{ secrets.DOCKER_PASSWORD }}
+
+    - name: Check Docker buildkit config
+      run: "cat /home/la-2025/.config/buildkit/buildkitd.toml"
+
+    - name: Setup Docker buildx
+      uses: docker/setup-buildx-action@v3.10.0
+      id: buildx
+      with:
+        driver-opts: |
+          network=host
+        buildkitd-config: /home/la-2025/.config/buildkit/buildkitd.toml
+        buildkitd-flags: "--allow-insecure-entitlement security.insecure --allow-insecure-entitlement network.host --debug"
+
+    - name: Setup Node for devcontainers cli
+      uses: actions/setup-node@v4
+      with:
+        node-version: 20
+
+    - name: Verify node and skopeo setup
+      run: |
+        node -v
+        skopeo -v
+
+    - name: Cache Docker image layers
+      uses: actions/cache@v4.2.3
+      with:
+        path: ${{ runner.temp }}/.buildx-cache
+        key: ${{ runner.os }}-buildx-${{ github.sha }}
+        restore-keys: |
+          ${{ runner.os }}-buildx-
+
+    - name: Build and push Docker images
+      uses: docker/build-push-action@v6.15.0
+      id: docker_build
+      with:
+        context: ./
+        file: ./.github/workflows/Dockerfile
+        push: true
+        build-args: |
+          DATABASE_URI=${{ vars.DATABASE_URII_PROD }}
+        tags: ${{ secrets.DOCKER_USERNAME }}/ai-law-linking:prod-latest
+        cache-to: type=local,dest=${{ runner.temp }}/.buildx-cache
+        cache-from: type=local,src=${{ runner.temp }}/.buildx-cache
+      
+    - name: Verify CI/CD pipeline
+      run: echo ${{ steps.docker_build.outputs.digest }}

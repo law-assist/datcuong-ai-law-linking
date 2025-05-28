@@ -1,2 +1,26 @@
+# Python bin files
 .venv
 __pycache__
+
+# Git
+.git 
+.gitattributes
+.gitignore
+
+# Dev container
+.devcontainer
+
+# VS Code setting
+.vscode
+
+# Github workflow
+.github 
+
+# Legacy code
+legacy 
+
+# Testing code when development
+test.py
+testing_ner.json
+testing_ner.py
+testing_similarity.json

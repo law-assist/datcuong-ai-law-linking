@@ -66,6 +66,7 @@ jobs:
         cacheFrom: ${{ secrets.DOCKER_USERNAME }}/ai-law-linking
         env: |
           DATABASE_URI=${{ vars.DATABASE_URI }}
+          DATABASE_NAME=${{ vars.DATABASE_NAME }}
         push: always
         runCmd: nvidia-smi
 

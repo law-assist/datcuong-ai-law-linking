@@ -1,6 +1,6 @@
 FROM nvidia/cuda:12.5.0-base-ubuntu22.04
 
-# system u
+# system update
 RUN apt-get update
 
 # install Git and Bash, Git LFS dependencies

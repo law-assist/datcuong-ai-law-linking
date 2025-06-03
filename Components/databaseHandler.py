@@ -7,6 +7,7 @@ from dotenv import load_dotenv
 
 load_dotenv(dotenv_path="../.env")
 DATABASE_URI = os.getenv('DATABASE_URI')
+DATABASE_NAME = os.getenv('DATABASE_NAME')
 
 def convert_document_from_db_to_available_json(document):
     document["_id"] = str(document["_id"])
@@ -28,7 +29,7 @@ def get_db_from_mongo(mongo_url: str):
     client = MongoClient(mongo_url)
 
     # Truy cập cơ sở dữ liệu
-    collection = client["law_linking"]["laws"]
+    collection = client[DATABASE_NAME if DATABASE_NAME!= None else "law_linking"]["laws"]
 
     # Trả về danh sách các văn bản json
     return collection, client
